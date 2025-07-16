@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# VSCode & macOS
+.vscode/
+.DS_Store
+
+# Logs
+*.log
